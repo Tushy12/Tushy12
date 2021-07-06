@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tushy12
+- 👋 Hi, I’m Tushar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 📫 email me at tusharsharma1296@gmail.com
