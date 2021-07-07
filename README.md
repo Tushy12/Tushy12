@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tushar
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 📫 email me at tusharsharma1296@gmail.com
 
